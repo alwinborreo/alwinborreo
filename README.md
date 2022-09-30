@@ -1,6 +1,3 @@
-# hello
-Lorem ipsum
+Hi!
 
-- list 1
-- list 2
-- list 3
+I'm learning how to code and currently studying HTML, CSS, and Javascript. I don't have much to show for yet but as the Terminator said: "I'll be back."
